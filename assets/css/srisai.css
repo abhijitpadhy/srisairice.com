@@ -1030,6 +1030,7 @@ header {
   .nav-item:hover > a {
     transform: scale(1);
     background-color: #FFc63e;
+      color:#000;
   }
 
   .menu-arrow {
